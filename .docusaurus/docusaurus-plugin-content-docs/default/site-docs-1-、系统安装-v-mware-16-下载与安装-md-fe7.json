@@ -1,0 +1,23 @@
+{
+  "unversionedId": "1、系统安装/VMware16 下载与安装",
+  "id": "1、系统安装/VMware16 下载与安装",
+  "title": "VMware16 下载与安装",
+  "description": "VMware16 下载与安装",
+  "source": "@site/docs\\1、系统安装\\VMware16 下载与安装.md",
+  "sourceDirName": "1、系统安装",
+  "slug": "/1、系统安装/VMware16 下载与安装",
+  "permalink": "/docs/1、系统安装/VMware16 下载与安装",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1、系统安装/VMware16 下载与安装.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VMware 虚拟机安装windows7",
+    "permalink": "/docs/1、系统安装/VMware 虚拟机安装windows7"
+  },
+  "next": {
+    "title": "在windows中安装windows7系统",
+    "permalink": "/docs/1、系统安装/在windows中安装windows7系统"
+  }
+}

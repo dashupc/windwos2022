@@ -1,0 +1,26 @@
+{
+  "unversionedId": "硬盘常见故障/congratulations",
+  "id": "硬盘常见故障/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs\\硬盘常见故障\\congratulations.md",
+  "sourceDirName": "硬盘常见故障",
+  "slug": "/硬盘常见故障/congratulations",
+  "permalink": "/docs/硬盘常见故障/congratulations",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/硬盘常见故障/deploy-your-site"
+  },
+  "next": {
+    "title": "固态硬盘开卡维修教程",
+    "permalink": "/docs/硬盘常见故障/固态硬盘开卡维修教程"
+  }
+}

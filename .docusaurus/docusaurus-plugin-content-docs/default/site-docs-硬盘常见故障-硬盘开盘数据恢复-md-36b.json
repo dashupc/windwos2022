@@ -1,0 +1,23 @@
+{
+  "unversionedId": "硬盘常见故障/硬盘开盘数据恢复",
+  "id": "硬盘常见故障/硬盘开盘数据恢复",
+  "title": "硬盘开盘数据恢复",
+  "description": "磁头坏的硬盘，开数换磁头数据恢复",
+  "source": "@site/docs\\硬盘常见故障\\硬盘开盘数据恢复.md",
+  "sourceDirName": "硬盘常见故障",
+  "slug": "/硬盘常见故障/硬盘开盘数据恢复",
+  "permalink": "/docs/硬盘常见故障/硬盘开盘数据恢复",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/硬盘开盘数据恢复.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "固态硬盘开卡维修教程",
+    "permalink": "/docs/硬盘常见故障/固态硬盘开卡维修教程"
+  },
+  "next": {
+    "title": "联想Y7000安装windows10 过程",
+    "permalink": "/docs/windows10/联想Y7000安装windows10 过程"
+  }
+}

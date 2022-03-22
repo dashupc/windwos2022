@@ -1,0 +1,239 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "关于windows2022",
+        "href": "/docs/windwos2022",
+        "docId": "windwos2022"
+      },
+      {
+        "type": "category",
+        "label": "1、系统安装",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "windows10系统U盘制作方法",
+            "href": "/docs/1、系统安装/windows10系统U盘制作方法",
+            "docId": "1、系统安装/windows10系统U盘制作方法"
+          },
+          {
+            "type": "link",
+            "label": "PE维护U盘的制作",
+            "href": "/docs/1、系统安装/PE维护U盘的制作",
+            "docId": "1、系统安装/PE维护U盘的制作"
+          },
+          {
+            "type": "link",
+            "label": "VMware 虚拟机安装windows7",
+            "href": "/docs/1、系统安装/VMware 虚拟机安装windows7",
+            "docId": "1、系统安装/VMware 虚拟机安装windows7"
+          },
+          {
+            "type": "link",
+            "label": "VMware16 下载与安装",
+            "href": "/docs/1、系统安装/VMware16 下载与安装",
+            "docId": "1、系统安装/VMware16 下载与安装"
+          },
+          {
+            "type": "link",
+            "label": "在windows中安装windows7系统",
+            "href": "/docs/1、系统安装/在windows中安装windows7系统",
+            "docId": "1、系统安装/在windows中安装windows7系统"
+          },
+          {
+            "type": "link",
+            "label": "联想Y7000安装windows10 过程",
+            "href": "/docs/1、系统安装/联想Y7000安装windows10 过程",
+            "docId": "1、系统安装/联想Y7000安装windows10 过程"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "电脑使用常识",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "QQ微信存储文件路径更改",
+            "href": "/docs/电脑使用常识/微信存储文件路径更改",
+            "docId": "电脑使用常识/微信存储文件路径更改"
+          },
+          {
+            "type": "link",
+            "label": "google chrome 浏览器下载",
+            "href": "/docs/电脑使用常识/google chrome 浏览器下载",
+            "docId": "电脑使用常识/google chrome 浏览器下载"
+          },
+          {
+            "type": "link",
+            "label": "硬盘分区",
+            "href": "/docs/电脑使用常识/硬盘分区",
+            "docId": "电脑使用常识/硬盘分区"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "硬盘常见故障",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "硬盘故障检测及排除",
+            "href": "/docs/硬盘常见故障/hdd",
+            "docId": "硬盘常见故障/hdd"
+          },
+          {
+            "type": "link",
+            "label": "C盘空间爆满的处理及原因分析",
+            "href": "/docs/硬盘常见故障/C盘空间爆满的处理及原因分析",
+            "docId": "硬盘常见故障/C盘空间爆满的处理及原因分析"
+          },
+          {
+            "type": "link",
+            "label": "SM2258XT 全套工厂固件下载",
+            "href": "/docs/硬盘常见故障/SM2258XT 全套工厂固件下载",
+            "docId": "硬盘常见故障/SM2258XT 全套工厂固件下载"
+          },
+          {
+            "type": "link",
+            "label": "固态硬盘开卡维修教程",
+            "href": "/docs/硬盘常见故障/固态硬盘开卡维修教程",
+            "docId": "硬盘常见故障/固态硬盘开卡维修教程"
+          },
+          {
+            "type": "link",
+            "label": "硬盘开盘数据恢复",
+            "href": "/docs/硬盘常见故障/硬盘开盘数据恢复",
+            "docId": "硬盘常见故障/硬盘开盘数据恢复"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "windows10",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "联想Y7000安装windows10 过程",
+            "href": "/docs/windows10/联想Y7000安装windows10 过程",
+            "docId": "windows10/联想Y7000安装windows10 过程"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "1、系统安装/联想Y7000安装windows10 过程": {
+      "id": "1、系统安装/联想Y7000安装windows10 过程",
+      "title": "联想Y7000安装windows10 过程",
+      "description": "一、BIOS修改",
+      "sidebar": "tutorialSidebar"
+    },
+    "1、系统安装/在windows中安装windows7系统": {
+      "id": "1、系统安装/在windows中安装windows7系统",
+      "title": "在windows中安装windows7系统",
+      "description": "需要2个文件",
+      "sidebar": "tutorialSidebar"
+    },
+    "1、系统安装/PE维护U盘的制作": {
+      "id": "1、系统安装/PE维护U盘的制作",
+      "title": "PE维护U盘的制作",
+      "description": "http89/?dl=9081957ebd242537ea77359e18ff4cc3",
+      "sidebar": "tutorialSidebar"
+    },
+    "1、系统安装/VMware 虚拟机安装windows7": {
+      "id": "1、系统安装/VMware 虚拟机安装windows7",
+      "title": "VMware 虚拟机安装windows7",
+      "description": "VMware 虚拟机安装windows7",
+      "sidebar": "tutorialSidebar"
+    },
+    "1、系统安装/VMware16 下载与安装": {
+      "id": "1、系统安装/VMware16 下载与安装",
+      "title": "VMware16 下载与安装",
+      "description": "VMware16 下载与安装",
+      "sidebar": "tutorialSidebar"
+    },
+    "1、系统安装/windows10系统U盘制作方法": {
+      "id": "1、系统安装/windows10系统U盘制作方法",
+      "title": "windows10系统U盘制作方法",
+      "description": "官方下载链接：",
+      "sidebar": "tutorialSidebar"
+    },
+    "电脑使用常识/微信存储文件路径更改": {
+      "id": "电脑使用常识/微信存储文件路径更改",
+      "title": "QQ微信存储文件路径更改",
+      "description": "C盘空间太满 大多是QQ和微信保存的文件太多，有的有十多G甚至几十G的也有，对于普通用户来说大多都没有什么用，可以删除。",
+      "sidebar": "tutorialSidebar"
+    },
+    "电脑使用常识/硬盘分区": {
+      "id": "电脑使用常识/硬盘分区",
+      "title": "硬盘分区",
+      "description": "新安装的硬盘分区，用磁盘管理分区整理盘符",
+      "sidebar": "tutorialSidebar"
+    },
+    "电脑使用常识/google chrome 浏览器下载": {
+      "id": "电脑使用常识/google chrome 浏览器下载",
+      "title": "google chrome 浏览器下载",
+      "description": "直接打开GOOGLE中国的网站就好了，这个网站是可以正常访问的",
+      "sidebar": "tutorialSidebar"
+    },
+    "硬盘常见故障/固态硬盘开卡维修教程": {
+      "id": "硬盘常见故障/固态硬盘开卡维修教程",
+      "title": "固态硬盘开卡维修教程",
+      "description": "固态硬盘开卡维修常识性知识",
+      "sidebar": "tutorialSidebar"
+    },
+    "硬盘常见故障/硬盘开盘数据恢复": {
+      "id": "硬盘常见故障/硬盘开盘数据恢复",
+      "title": "硬盘开盘数据恢复",
+      "description": "磁头坏的硬盘，开数换磁头数据恢复",
+      "sidebar": "tutorialSidebar"
+    },
+    "硬盘常见故障/C盘空间爆满的处理及原因分析": {
+      "id": "硬盘常见故障/C盘空间爆满的处理及原因分析",
+      "title": "C盘空间爆满的处理及原因分析",
+      "description": "微信及QQ 使用过程中自动下载和保存的图片和视频太多导致",
+      "sidebar": "tutorialSidebar"
+    },
+    "硬盘常见故障/hdd": {
+      "id": "硬盘常见故障/hdd",
+      "title": "硬盘故障检测及排除",
+      "description": "常见故障",
+      "sidebar": "tutorialSidebar"
+    },
+    "硬盘常见故障/SM2258XT 全套工厂固件下载": {
+      "id": "硬盘常见故障/SM2258XT 全套工厂固件下载",
+      "title": "SM2258XT 全套工厂固件下载",
+      "description": "SM2258XT 全套工厂固件下载 SM2258XT开卡工具",
+      "sidebar": "tutorialSidebar"
+    },
+    "windows10/联想Y7000安装windows10 过程": {
+      "id": "windows10/联想Y7000安装windows10 过程",
+      "title": "联想Y7000安装windows10 过程",
+      "description": "一、BIOS修改",
+      "sidebar": "tutorialSidebar"
+    },
+    "windwos2022": {
+      "id": "windwos2022",
+      "title": "关于windows2022",
+      "description": "本站提供 电脑常见故障的排除方法.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

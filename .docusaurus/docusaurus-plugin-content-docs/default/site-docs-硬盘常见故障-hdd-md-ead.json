@@ -1,0 +1,26 @@
+{
+  "unversionedId": "硬盘常见故障/hdd",
+  "id": "硬盘常见故障/hdd",
+  "title": "硬盘故障检测及排除",
+  "description": "常见故障",
+  "source": "@site/docs\\硬盘常见故障\\hdd.md",
+  "sourceDirName": "硬盘常见故障",
+  "slug": "/硬盘常见故障/hdd",
+  "permalink": "/docs/硬盘常见故障/hdd",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/hdd.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "硬盘分区",
+    "permalink": "/docs/电脑使用常识/硬盘分区"
+  },
+  "next": {
+    "title": "C盘空间爆满的处理及原因分析",
+    "permalink": "/docs/硬盘常见故障/C盘空间爆满的处理及原因分析"
+  }
+}

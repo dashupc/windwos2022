@@ -1,0 +1,26 @@
+{
+  "unversionedId": "硬盘常见故障/window10",
+  "id": "硬盘常见故障/window10",
+  "title": "windows10系统U盘制作方法",
+  "description": "官方下载链接：",
+  "source": "@site/docs\\硬盘常见故障\\window10.md",
+  "sourceDirName": "硬盘常见故障",
+  "slug": "/硬盘常见故障/window10",
+  "permalink": "/docs/硬盘常见故障/window10",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/window10.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "C盘空间爆满的处理及原因分析",
+    "permalink": "/docs/硬盘常见故障/C盘空间爆满的处理及原因分析"
+  },
+  "next": {
+    "title": "SM2258XT 全套工厂固件下载",
+    "permalink": "/docs/硬盘常见故障/SM2258XT 全套工厂固件下载"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "windwos2022",
+          "docs": [
+            {
+              "id": "1、系统安装/联想Y7000安装windows10 过程",
+              "path": "/docs/1、系统安装/联想Y7000安装windows10 过程",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "1、系统安装/在windows中安装windows7系统",
+              "path": "/docs/1、系统安装/在windows中安装windows7系统",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "1、系统安装/PE维护U盘的制作",
+              "path": "/docs/1、系统安装/PE维护U盘的制作",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "1、系统安装/VMware 虚拟机安装windows7",
+              "path": "/docs/1、系统安装/VMware 虚拟机安装windows7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "1、系统安装/VMware16 下载与安装",
+              "path": "/docs/1、系统安装/VMware16 下载与安装",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "1、系统安装/windows10系统U盘制作方法",
+              "path": "/docs/1、系统安装/windows10系统U盘制作方法",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "电脑使用常识/微信存储文件路径更改",
+              "path": "/docs/电脑使用常识/微信存储文件路径更改",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "电脑使用常识/硬盘分区",
+              "path": "/docs/电脑使用常识/硬盘分区",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "电脑使用常识/google chrome 浏览器下载",
+              "path": "/docs/电脑使用常识/google chrome 浏览器下载",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "硬盘常见故障/固态硬盘开卡维修教程",
+              "path": "/docs/硬盘常见故障/固态硬盘开卡维修教程",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "硬盘常见故障/硬盘开盘数据恢复",
+              "path": "/docs/硬盘常见故障/硬盘开盘数据恢复",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "硬盘常见故障/C盘空间爆满的处理及原因分析",
+              "path": "/docs/硬盘常见故障/C盘空间爆满的处理及原因分析",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "硬盘常见故障/hdd",
+              "path": "/docs/硬盘常见故障/hdd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "硬盘常见故障/SM2258XT 全套工厂固件下载",
+              "path": "/docs/硬盘常见故障/SM2258XT 全套工厂固件下载",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "windows10/联想Y7000安装windows10 过程",
+              "path": "/docs/windows10/联想Y7000安装windows10 过程",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "windwos2022",
+              "path": "/docs/windwos2022",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/windwos2022",
+                "label": "windwos2022"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

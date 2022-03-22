@@ -1,0 +1,26 @@
+{
+  "unversionedId": "硬盘常见故障/deploy-your-site",
+  "id": "硬盘常见故障/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs\\硬盘常见故障\\deploy-your-site.md",
+  "sourceDirName": "硬盘常见故障",
+  "slug": "/硬盘常见故障/deploy-your-site",
+  "permalink": "/docs/硬盘常见故障/deploy-your-site",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/deploy-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/docs/硬盘常见故障/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/docs/硬盘常见故障/congratulations"
+  }
+}

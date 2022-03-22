@@ -1,0 +1,23 @@
+{
+  "unversionedId": "电脑使用常识/硬盘分区",
+  "id": "电脑使用常识/硬盘分区",
+  "title": "硬盘分区",
+  "description": "新安装的硬盘分区，用磁盘管理分区整理盘符",
+  "source": "@site/docs\\电脑使用常识\\硬盘分区.md",
+  "sourceDirName": "电脑使用常识",
+  "slug": "/电脑使用常识/硬盘分区",
+  "permalink": "/docs/电脑使用常识/硬盘分区",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/电脑使用常识/硬盘分区.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "google chrome 浏览器下载",
+    "permalink": "/docs/电脑使用常识/google chrome 浏览器下载"
+  },
+  "next": {
+    "title": "硬盘故障检测及排除",
+    "permalink": "/docs/硬盘常见故障/hdd"
+  }
+}

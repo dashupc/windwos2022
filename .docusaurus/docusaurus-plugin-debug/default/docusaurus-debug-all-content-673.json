@@ -1,0 +1,881 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\windwos2022\\sidebars.js",
+          "contentPath": "D:\\windwos2022\\docs",
+          "contentPathLocalized": "D:\\windwos2022\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "1、系统安装/联想Y7000安装windows10 过程",
+              "id": "1、系统安装/联想Y7000安装windows10 过程",
+              "title": "联想Y7000安装windows10 过程",
+              "description": "一、BIOS修改",
+              "source": "@site/docs\\1、系统安装\\联想Y7000安装windows10 过程.md",
+              "sourceDirName": "1、系统安装",
+              "slug": "/1、系统安装/联想Y7000安装windows10 过程",
+              "permalink": "/docs/1、系统安装/联想Y7000安装windows10 过程",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1、系统安装/联想Y7000安装windows10 过程.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "在windows中安装windows7系统",
+                "permalink": "/docs/1、系统安装/在windows中安装windows7系统"
+              },
+              "next": {
+                "title": "QQ微信存储文件路径更改",
+                "permalink": "/docs/电脑使用常识/微信存储文件路径更改"
+              }
+            },
+            {
+              "unversionedId": "1、系统安装/在windows中安装windows7系统",
+              "id": "1、系统安装/在windows中安装windows7系统",
+              "title": "在windows中安装windows7系统",
+              "description": "需要2个文件",
+              "source": "@site/docs\\1、系统安装\\在windows中安装windows7系统.md",
+              "sourceDirName": "1、系统安装",
+              "slug": "/1、系统安装/在windows中安装windows7系统",
+              "permalink": "/docs/1、系统安装/在windows中安装windows7系统",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1、系统安装/在windows中安装windows7系统.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VMware16 下载与安装",
+                "permalink": "/docs/1、系统安装/VMware16 下载与安装"
+              },
+              "next": {
+                "title": "联想Y7000安装windows10 过程",
+                "permalink": "/docs/1、系统安装/联想Y7000安装windows10 过程"
+              }
+            },
+            {
+              "unversionedId": "1、系统安装/PE维护U盘的制作",
+              "id": "1、系统安装/PE维护U盘的制作",
+              "title": "PE维护U盘的制作",
+              "description": "http89/?dl=9081957ebd242537ea77359e18ff4cc3",
+              "source": "@site/docs\\1、系统安装\\PE维护U盘的制作.md",
+              "sourceDirName": "1、系统安装",
+              "slug": "/1、系统安装/PE维护U盘的制作",
+              "permalink": "/docs/1、系统安装/PE维护U盘的制作",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1、系统安装/PE维护U盘的制作.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "windows10系统U盘制作方法",
+                "permalink": "/docs/1、系统安装/windows10系统U盘制作方法"
+              },
+              "next": {
+                "title": "VMware 虚拟机安装windows7",
+                "permalink": "/docs/1、系统安装/VMware 虚拟机安装windows7"
+              }
+            },
+            {
+              "unversionedId": "1、系统安装/VMware 虚拟机安装windows7",
+              "id": "1、系统安装/VMware 虚拟机安装windows7",
+              "title": "VMware 虚拟机安装windows7",
+              "description": "VMware 虚拟机安装windows7",
+              "source": "@site/docs\\1、系统安装\\VMware 虚拟机安装windows7.md",
+              "sourceDirName": "1、系统安装",
+              "slug": "/1、系统安装/VMware 虚拟机安装windows7",
+              "permalink": "/docs/1、系统安装/VMware 虚拟机安装windows7",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1、系统安装/VMware 虚拟机安装windows7.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PE维护U盘的制作",
+                "permalink": "/docs/1、系统安装/PE维护U盘的制作"
+              },
+              "next": {
+                "title": "VMware16 下载与安装",
+                "permalink": "/docs/1、系统安装/VMware16 下载与安装"
+              }
+            },
+            {
+              "unversionedId": "1、系统安装/VMware16 下载与安装",
+              "id": "1、系统安装/VMware16 下载与安装",
+              "title": "VMware16 下载与安装",
+              "description": "VMware16 下载与安装",
+              "source": "@site/docs\\1、系统安装\\VMware16 下载与安装.md",
+              "sourceDirName": "1、系统安装",
+              "slug": "/1、系统安装/VMware16 下载与安装",
+              "permalink": "/docs/1、系统安装/VMware16 下载与安装",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1、系统安装/VMware16 下载与安装.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VMware 虚拟机安装windows7",
+                "permalink": "/docs/1、系统安装/VMware 虚拟机安装windows7"
+              },
+              "next": {
+                "title": "在windows中安装windows7系统",
+                "permalink": "/docs/1、系统安装/在windows中安装windows7系统"
+              }
+            },
+            {
+              "unversionedId": "1、系统安装/windows10系统U盘制作方法",
+              "id": "1、系统安装/windows10系统U盘制作方法",
+              "title": "windows10系统U盘制作方法",
+              "description": "官方下载链接：",
+              "source": "@site/docs\\1、系统安装\\windows10系统U盘制作方法.md",
+              "sourceDirName": "1、系统安装",
+              "slug": "/1、系统安装/windows10系统U盘制作方法",
+              "permalink": "/docs/1、系统安装/windows10系统U盘制作方法",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1、系统安装/windows10系统U盘制作方法.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "关于windows2022",
+                "permalink": "/docs/windwos2022"
+              },
+              "next": {
+                "title": "PE维护U盘的制作",
+                "permalink": "/docs/1、系统安装/PE维护U盘的制作"
+              }
+            },
+            {
+              "unversionedId": "电脑使用常识/微信存储文件路径更改",
+              "id": "电脑使用常识/微信存储文件路径更改",
+              "title": "QQ微信存储文件路径更改",
+              "description": "C盘空间太满 大多是QQ和微信保存的文件太多，有的有十多G甚至几十G的也有，对于普通用户来说大多都没有什么用，可以删除。",
+              "source": "@site/docs\\电脑使用常识\\微信存储文件路径更改.md",
+              "sourceDirName": "电脑使用常识",
+              "slug": "/电脑使用常识/微信存储文件路径更改",
+              "permalink": "/docs/电脑使用常识/微信存储文件路径更改",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/电脑使用常识/微信存储文件路径更改.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "联想Y7000安装windows10 过程",
+                "permalink": "/docs/1、系统安装/联想Y7000安装windows10 过程"
+              },
+              "next": {
+                "title": "google chrome 浏览器下载",
+                "permalink": "/docs/电脑使用常识/google chrome 浏览器下载"
+              }
+            },
+            {
+              "unversionedId": "电脑使用常识/硬盘分区",
+              "id": "电脑使用常识/硬盘分区",
+              "title": "硬盘分区",
+              "description": "新安装的硬盘分区，用磁盘管理分区整理盘符",
+              "source": "@site/docs\\电脑使用常识\\硬盘分区.md",
+              "sourceDirName": "电脑使用常识",
+              "slug": "/电脑使用常识/硬盘分区",
+              "permalink": "/docs/电脑使用常识/硬盘分区",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/电脑使用常识/硬盘分区.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "google chrome 浏览器下载",
+                "permalink": "/docs/电脑使用常识/google chrome 浏览器下载"
+              },
+              "next": {
+                "title": "硬盘故障检测及排除",
+                "permalink": "/docs/硬盘常见故障/hdd"
+              }
+            },
+            {
+              "unversionedId": "电脑使用常识/google chrome 浏览器下载",
+              "id": "电脑使用常识/google chrome 浏览器下载",
+              "title": "google chrome 浏览器下载",
+              "description": "直接打开GOOGLE中国的网站就好了，这个网站是可以正常访问的",
+              "source": "@site/docs\\电脑使用常识\\google chrome 浏览器下载.md",
+              "sourceDirName": "电脑使用常识",
+              "slug": "/电脑使用常识/google chrome 浏览器下载",
+              "permalink": "/docs/电脑使用常识/google chrome 浏览器下载",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/电脑使用常识/google chrome 浏览器下载.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "QQ微信存储文件路径更改",
+                "permalink": "/docs/电脑使用常识/微信存储文件路径更改"
+              },
+              "next": {
+                "title": "硬盘分区",
+                "permalink": "/docs/电脑使用常识/硬盘分区"
+              }
+            },
+            {
+              "unversionedId": "硬盘常见故障/固态硬盘开卡维修教程",
+              "id": "硬盘常见故障/固态硬盘开卡维修教程",
+              "title": "固态硬盘开卡维修教程",
+              "description": "固态硬盘开卡维修常识性知识",
+              "source": "@site/docs\\硬盘常见故障\\固态硬盘开卡维修教程.md",
+              "sourceDirName": "硬盘常见故障",
+              "slug": "/硬盘常见故障/固态硬盘开卡维修教程",
+              "permalink": "/docs/硬盘常见故障/固态硬盘开卡维修教程",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/固态硬盘开卡维修教程.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SM2258XT 全套工厂固件下载",
+                "permalink": "/docs/硬盘常见故障/SM2258XT 全套工厂固件下载"
+              },
+              "next": {
+                "title": "硬盘开盘数据恢复",
+                "permalink": "/docs/硬盘常见故障/硬盘开盘数据恢复"
+              }
+            },
+            {
+              "unversionedId": "硬盘常见故障/硬盘开盘数据恢复",
+              "id": "硬盘常见故障/硬盘开盘数据恢复",
+              "title": "硬盘开盘数据恢复",
+              "description": "磁头坏的硬盘，开数换磁头数据恢复",
+              "source": "@site/docs\\硬盘常见故障\\硬盘开盘数据恢复.md",
+              "sourceDirName": "硬盘常见故障",
+              "slug": "/硬盘常见故障/硬盘开盘数据恢复",
+              "permalink": "/docs/硬盘常见故障/硬盘开盘数据恢复",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/硬盘开盘数据恢复.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "固态硬盘开卡维修教程",
+                "permalink": "/docs/硬盘常见故障/固态硬盘开卡维修教程"
+              },
+              "next": {
+                "title": "联想Y7000安装windows10 过程",
+                "permalink": "/docs/windows10/联想Y7000安装windows10 过程"
+              }
+            },
+            {
+              "unversionedId": "硬盘常见故障/C盘空间爆满的处理及原因分析",
+              "id": "硬盘常见故障/C盘空间爆满的处理及原因分析",
+              "title": "C盘空间爆满的处理及原因分析",
+              "description": "微信及QQ 使用过程中自动下载和保存的图片和视频太多导致",
+              "source": "@site/docs\\硬盘常见故障\\C盘空间爆满的处理及原因分析.md",
+              "sourceDirName": "硬盘常见故障",
+              "slug": "/硬盘常见故障/C盘空间爆满的处理及原因分析",
+              "permalink": "/docs/硬盘常见故障/C盘空间爆满的处理及原因分析",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/C盘空间爆满的处理及原因分析.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "硬盘故障检测及排除",
+                "permalink": "/docs/硬盘常见故障/hdd"
+              },
+              "next": {
+                "title": "SM2258XT 全套工厂固件下载",
+                "permalink": "/docs/硬盘常见故障/SM2258XT 全套工厂固件下载"
+              }
+            },
+            {
+              "unversionedId": "硬盘常见故障/hdd",
+              "id": "硬盘常见故障/hdd",
+              "title": "硬盘故障检测及排除",
+              "description": "常见故障",
+              "source": "@site/docs\\硬盘常见故障\\hdd.md",
+              "sourceDirName": "硬盘常见故障",
+              "slug": "/硬盘常见故障/hdd",
+              "permalink": "/docs/硬盘常见故障/hdd",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/hdd.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "硬盘分区",
+                "permalink": "/docs/电脑使用常识/硬盘分区"
+              },
+              "next": {
+                "title": "C盘空间爆满的处理及原因分析",
+                "permalink": "/docs/硬盘常见故障/C盘空间爆满的处理及原因分析"
+              }
+            },
+            {
+              "unversionedId": "硬盘常见故障/SM2258XT 全套工厂固件下载",
+              "id": "硬盘常见故障/SM2258XT 全套工厂固件下载",
+              "title": "SM2258XT 全套工厂固件下载",
+              "description": "SM2258XT 全套工厂固件下载 SM2258XT开卡工具",
+              "source": "@site/docs\\硬盘常见故障\\SM2258XT 全套工厂固件下载.md",
+              "sourceDirName": "硬盘常见故障",
+              "slug": "/硬盘常见故障/SM2258XT 全套工厂固件下载",
+              "permalink": "/docs/硬盘常见故障/SM2258XT 全套工厂固件下载",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/SM2258XT 全套工厂固件下载.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "C盘空间爆满的处理及原因分析",
+                "permalink": "/docs/硬盘常见故障/C盘空间爆满的处理及原因分析"
+              },
+              "next": {
+                "title": "固态硬盘开卡维修教程",
+                "permalink": "/docs/硬盘常见故障/固态硬盘开卡维修教程"
+              }
+            },
+            {
+              "unversionedId": "windows10/联想Y7000安装windows10 过程",
+              "id": "windows10/联想Y7000安装windows10 过程",
+              "title": "联想Y7000安装windows10 过程",
+              "description": "一、BIOS修改",
+              "source": "@site/docs\\windows10\\联想Y7000安装windows10 过程.md",
+              "sourceDirName": "windows10",
+              "slug": "/windows10/联想Y7000安装windows10 过程",
+              "permalink": "/docs/windows10/联想Y7000安装windows10 过程",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/windows10/联想Y7000安装windows10 过程.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "硬盘开盘数据恢复",
+                "permalink": "/docs/硬盘常见故障/硬盘开盘数据恢复"
+              }
+            },
+            {
+              "unversionedId": "windwos2022",
+              "id": "windwos2022",
+              "title": "关于windows2022",
+              "description": "本站提供 电脑常见故障的排除方法.",
+              "source": "@site/docs/windwos2022.md",
+              "sourceDirName": ".",
+              "slug": "/windwos2022",
+              "permalink": "/docs/windwos2022",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/windwos2022.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "windows10系统U盘制作方法",
+                "permalink": "/docs/1、系统安装/windows10系统U盘制作方法"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "windwos2022"
+              },
+              {
+                "type": "category",
+                "label": "1、系统安装",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "1、系统安装/windows10系统U盘制作方法"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "1、系统安装/PE维护U盘的制作"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "1、系统安装/VMware 虚拟机安装windows7"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "1、系统安装/VMware16 下载与安装"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "1、系统安装/在windows中安装windows7系统"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "1、系统安装/联想Y7000安装windows10 过程"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "电脑使用常识",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "电脑使用常识/微信存储文件路径更改"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "电脑使用常识/google chrome 浏览器下载"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "电脑使用常识/硬盘分区"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "硬盘常见故障",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "硬盘常见故障/hdd"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "硬盘常见故障/C盘空间爆满的处理及原因分析"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "硬盘常见故障/SM2258XT 全套工厂固件下载"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "硬盘常见故障/固态硬盘开卡维修教程"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "硬盘常见故障/硬盘开盘数据恢复"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "windows10",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "windows10/联想Y7000安装windows10 过程"
+                  }
+                ]
+              }
+            ]
+          },
+          "mainDocId": "windwos2022",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "truncated": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "previousPage": null,
+                "nextPage": null,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "previousPage": null,
+                "nextPage": null,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "previousPage": null,
+                "nextPage": null,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hola": {
+          "name": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "previousPage": null,
+                "nextPage": null,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

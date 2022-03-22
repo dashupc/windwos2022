@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/window10",
+  "id": "tutorial-basics/window10",
+  "title": "windows10系统U盘制作方法",
+  "description": "官方下载链接：",
+  "source": "@site/docs/tutorial-basics/window10.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/window10",
+  "permalink": "/docs/tutorial-basics/window10",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/window10.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "C盘空间爆满的处理及原因分析",
+    "permalink": "/docs/tutorial-basics/C盘空间爆满的处理及原因分析"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/tutorial-basics/create-a-blog-post"
+  }
+}

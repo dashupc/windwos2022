@@ -1,0 +1,19 @@
+{
+  "unversionedId": "windows10/联想Y7000安装windows10 过程",
+  "id": "windows10/联想Y7000安装windows10 过程",
+  "title": "联想Y7000安装windows10 过程",
+  "description": "一、BIOS修改",
+  "source": "@site/docs\\windows10\\联想Y7000安装windows10 过程.md",
+  "sourceDirName": "windows10",
+  "slug": "/windows10/联想Y7000安装windows10 过程",
+  "permalink": "/docs/windows10/联想Y7000安装windows10 过程",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/windows10/联想Y7000安装windows10 过程.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "硬盘开盘数据恢复",
+    "permalink": "/docs/硬盘常见故障/硬盘开盘数据恢复"
+  }
+}

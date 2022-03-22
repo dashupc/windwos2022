@@ -1,0 +1,23 @@
+{
+  "unversionedId": "硬盘常见故障/SM2258XT 全套工厂固件下载",
+  "id": "硬盘常见故障/SM2258XT 全套工厂固件下载",
+  "title": "SM2258XT 全套工厂固件下载",
+  "description": "SM2258XT 全套工厂固件下载 SM2258XT开卡工具",
+  "source": "@site/docs\\硬盘常见故障\\SM2258XT 全套工厂固件下载.md",
+  "sourceDirName": "硬盘常见故障",
+  "slug": "/硬盘常见故障/SM2258XT 全套工厂固件下载",
+  "permalink": "/docs/硬盘常见故障/SM2258XT 全套工厂固件下载",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/SM2258XT 全套工厂固件下载.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "C盘空间爆满的处理及原因分析",
+    "permalink": "/docs/硬盘常见故障/C盘空间爆满的处理及原因分析"
+  },
+  "next": {
+    "title": "固态硬盘开卡维修教程",
+    "permalink": "/docs/硬盘常见故障/固态硬盘开卡维修教程"
+  }
+}

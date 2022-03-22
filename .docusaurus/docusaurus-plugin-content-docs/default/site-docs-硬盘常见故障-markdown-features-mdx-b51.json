@@ -1,0 +1,26 @@
+{
+  "unversionedId": "硬盘常见故障/markdown-features",
+  "id": "硬盘常见故障/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs\\硬盘常见故障\\markdown-features.mdx",
+  "sourceDirName": "硬盘常见故障",
+  "slug": "/硬盘常见故障/markdown-features",
+  "permalink": "/docs/硬盘常见故障/markdown-features",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "windows10系统U盘制作方法",
+    "permalink": "/docs/硬盘常见故障/window10"
+  },
+  "next": {
+    "title": "固态硬盘开卡维修教程",
+    "permalink": "/docs/硬盘常见故障/固态硬盘开卡维修教程"
+  }
+}

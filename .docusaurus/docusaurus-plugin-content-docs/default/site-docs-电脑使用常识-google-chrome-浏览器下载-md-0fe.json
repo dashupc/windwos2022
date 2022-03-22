@@ -1,0 +1,23 @@
+{
+  "unversionedId": "电脑使用常识/google chrome 浏览器下载",
+  "id": "电脑使用常识/google chrome 浏览器下载",
+  "title": "google chrome 浏览器下载",
+  "description": "直接打开GOOGLE中国的网站就好了，这个网站是可以正常访问的",
+  "source": "@site/docs\\电脑使用常识\\google chrome 浏览器下载.md",
+  "sourceDirName": "电脑使用常识",
+  "slug": "/电脑使用常识/google chrome 浏览器下载",
+  "permalink": "/docs/电脑使用常识/google chrome 浏览器下载",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/电脑使用常识/google chrome 浏览器下载.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "QQ微信存储文件路径更改",
+    "permalink": "/docs/电脑使用常识/微信存储文件路径更改"
+  },
+  "next": {
+    "title": "硬盘分区",
+    "permalink": "/docs/电脑使用常识/硬盘分区"
+  }
+}

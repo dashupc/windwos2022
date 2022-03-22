@@ -1,0 +1,26 @@
+{
+  "unversionedId": "硬盘常见故障/create-a-blog-post",
+  "id": "硬盘常见故障/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs\\硬盘常见故障\\create-a-blog-post.md",
+  "sourceDirName": "硬盘常见故障",
+  "slug": "/硬盘常见故障/create-a-blog-post",
+  "permalink": "/docs/硬盘常见故障/create-a-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/硬盘常见故障/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "windows10系统U盘制作方法",
+    "permalink": "/docs/硬盘常见故障/window10"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/硬盘常见故障/markdown-features"
+  }
+}
