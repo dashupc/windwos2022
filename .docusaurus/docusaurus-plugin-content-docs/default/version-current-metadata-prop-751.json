@@ -135,6 +135,26 @@
             "docId": "windows10/联想Y7000安装windows10 过程"
           }
         ]
+      },
+      {
+        "type": "category",
+        "label": "100、好用软件推荐",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Everything （文件搜索工具）",
+            "href": "/docs/100好用软件推荐/Everything 硬盘文件查找",
+            "docId": "100好用软件推荐/Everything 硬盘文件查找"
+          },
+          {
+            "type": "link",
+            "label": "好用截图软件",
+            "href": "/docs/100好用软件推荐/好用截图软件",
+            "docId": "100好用软件推荐/好用截图软件"
+          }
+        ]
       }
     ]
   },
@@ -173,6 +193,18 @@
       "id": "1、系统安装/windows10系统U盘制作方法",
       "title": "windows10系统U盘制作方法",
       "description": "官方下载链接：",
+      "sidebar": "tutorialSidebar"
+    },
+    "100好用软件推荐/好用截图软件": {
+      "id": "100好用软件推荐/好用截图软件",
+      "title": "好用截图软件",
+      "description": "让 Snipaste 帮你提高工作效率",
+      "sidebar": "tutorialSidebar"
+    },
+    "100好用软件推荐/Everything 硬盘文件查找": {
+      "id": "100好用软件推荐/Everything 硬盘文件查找",
+      "title": "Everything （文件搜索工具）",
+      "description": "Everything软件简介",
       "sidebar": "tutorialSidebar"
     },
     "电脑使用常识/微信存储文件路径更改": {

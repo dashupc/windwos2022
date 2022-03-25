@@ -160,6 +160,48 @@
               }
             },
             {
+              "unversionedId": "100好用软件推荐/好用截图软件",
+              "id": "100好用软件推荐/好用截图软件",
+              "title": "好用截图软件",
+              "description": "让 Snipaste 帮你提高工作效率",
+              "source": "@site/docs\\100好用软件推荐\\好用截图软件.md",
+              "sourceDirName": "100好用软件推荐",
+              "slug": "/100好用软件推荐/好用截图软件",
+              "permalink": "/docs/100好用软件推荐/好用截图软件",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/100好用软件推荐/好用截图软件.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Everything （文件搜索工具）",
+                "permalink": "/docs/100好用软件推荐/Everything 硬盘文件查找"
+              }
+            },
+            {
+              "unversionedId": "100好用软件推荐/Everything 硬盘文件查找",
+              "id": "100好用软件推荐/Everything 硬盘文件查找",
+              "title": "Everything （文件搜索工具）",
+              "description": "Everything软件简介",
+              "source": "@site/docs\\100好用软件推荐\\Everything 硬盘文件查找.md",
+              "sourceDirName": "100好用软件推荐",
+              "slug": "/100好用软件推荐/Everything 硬盘文件查找",
+              "permalink": "/docs/100好用软件推荐/Everything 硬盘文件查找",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/100好用软件推荐/Everything 硬盘文件查找.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "联想Y7000安装windows10 过程",
+                "permalink": "/docs/windows10/联想Y7000安装windows10 过程"
+              },
+              "next": {
+                "title": "好用截图软件",
+                "permalink": "/docs/100好用软件推荐/好用截图软件"
+              }
+            },
+            {
               "unversionedId": "电脑使用常识/微信存储文件路径更改",
               "id": "电脑使用常识/微信存储文件路径更改",
               "title": "QQ微信存储文件路径更改",
@@ -369,6 +411,10 @@
               "previous": {
                 "title": "硬盘开盘数据恢复",
                 "permalink": "/docs/硬盘常见故障/硬盘开盘数据恢复"
+              },
+              "next": {
+                "title": "Everything （文件搜索工具）",
+                "permalink": "/docs/100好用软件推荐/Everything 硬盘文件查找"
               }
             },
             {
@@ -489,6 +535,22 @@
                   {
                     "type": "doc",
                     "id": "windows10/联想Y7000安装windows10 过程"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "100、好用软件推荐",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "100好用软件推荐/Everything 硬盘文件查找"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "100好用软件推荐/好用截图软件"
                   }
                 ]
               }

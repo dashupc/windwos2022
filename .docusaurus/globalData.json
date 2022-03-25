@@ -41,6 +41,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "100好用软件推荐/好用截图软件",
+              "path": "/docs/100好用软件推荐/好用截图软件",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "100好用软件推荐/Everything 硬盘文件查找",
+              "path": "/docs/100好用软件推荐/Everything 硬盘文件查找",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "电脑使用常识/微信存储文件路径更改",
               "path": "/docs/电脑使用常识/微信存储文件路径更改",
               "sidebar": "tutorialSidebar"

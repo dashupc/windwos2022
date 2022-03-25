@@ -1,0 +1,19 @@
+{
+  "unversionedId": "100好用软件推荐/好用截图软件",
+  "id": "100好用软件推荐/好用截图软件",
+  "title": "好用截图软件",
+  "description": "让 Snipaste 帮你提高工作效率",
+  "source": "@site/docs\\100好用软件推荐\\好用截图软件.md",
+  "sourceDirName": "100好用软件推荐",
+  "slug": "/100好用软件推荐/好用截图软件",
+  "permalink": "/docs/100好用软件推荐/好用截图软件",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/100好用软件推荐/好用截图软件.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Everything （文件搜索工具）",
+    "permalink": "/docs/100好用软件推荐/Everything 硬盘文件查找"
+  }
+}

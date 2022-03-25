@@ -1,182 +1,212 @@
 {
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
   "/blog-520": {
-    "component": "a6aa9e1f",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---blogb-2-b-df1"
   },
   "/blog/archive-f4c": {
-    "component": "9e4087bc",
-    "archive": "b2f554cd"
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---blog-archiveb-2-f-393"
   },
   "/blog/first-blog-post-6c7": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
   },
   "/blog/long-blog-post-f06": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "73664a40"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
   },
   "/blog/mdx-blog-post-bee": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
   },
   "/blog/tags-e13": {
-    "component": "01a85c17",
-    "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
   "/blog/tags/docusaurus-a87": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "metadata": "metadata---blog-tags-docusaurusa-80-728",
+    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
   },
   "/blog/tags/facebook-d62": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       }
     ],
-    "metadata": "031793e1",
-    "listMetadata": "096bfee4"
+    "metadata": "metadata---blog-tags-facebook-031-c52",
+    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
   },
   "/blog/tags/hello-d09": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       }
     ],
-    "metadata": "30a24c52",
-    "listMetadata": "66406991"
+    "metadata": "metadata---blog-tags-hello-30-a-bed",
+    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
   },
   "/blog/tags/hola-192": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "metadata": "metadata---blog-tags-holae-16-18a",
+    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
   "/blog/welcome-bfa": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
   },
   "/markdown-page-be1": {
-    "component": "1f391b9e",
-    "content": "393be207"
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
   },
-  "/docs-7b7": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
+  "/docs-1c3": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/1、系统安装/联想Y7000安装windows10 过程-7e7": {
-    "component": "17896441",
-    "content": "ce2101e2"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-1-、系统安装-联想-y-7000-安装windows-10-过程ce-2-88e"
   },
   "/docs/1、系统安装/在windows中安装windows7系统-dc6": {
-    "component": "17896441",
-    "content": "ec9df8f8"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-1-、系统安装-在windows中安装windows-7-系统ec-9-b93"
   },
   "/docs/1、系统安装/PE维护U盘的制作-ae2": {
-    "component": "17896441",
-    "content": "7e7d1cb8"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-1-、系统安装-pe维护-u盘的制作-7-e-7-4ed"
   },
   "/docs/1、系统安装/VMware 虚拟机安装windows7-ef3": {
-    "component": "17896441",
-    "content": "66d3e7d7"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-1-、系统安装-v-mware-虚拟机安装windows-766-d-875"
   },
   "/docs/1、系统安装/VMware16 下载与安装-dd6": {
-    "component": "17896441",
-    "content": "fe7dfd6d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-1-、系统安装-v-mware-16-下载与安装fe-7-3ff"
   },
   "/docs/1、系统安装/windows10系统U盘制作方法-f14": {
-    "component": "17896441",
-    "content": "b331c2db"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-1-、系统安装-windows-10-系统-u盘制作方法b-33-d4e"
+  },
+  "/docs/100好用软件推荐/好用截图软件-f19": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-100-好用软件推荐-好用截图软件-562-b1f"
+  },
+  "/docs/100好用软件推荐/Everything 硬盘文件查找-7ad": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-100-好用软件推荐-everything-硬盘文件查找-25-c-2ec"
   },
   "/docs/电脑使用常识/微信存储文件路径更改-4db": {
-    "component": "17896441",
-    "content": "b0b91759"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-电脑使用常识-微信存储文件路径更改b-0-b-cae"
   },
   "/docs/电脑使用常识/硬盘分区-903": {
-    "component": "17896441",
-    "content": "5018d9c6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-电脑使用常识-硬盘分区-501-dd4"
   },
   "/docs/电脑使用常识/google chrome 浏览器下载-3a6": {
-    "component": "17896441",
-    "content": "0fea9b81"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-电脑使用常识-google-chrome-浏览器下载-0-fe-75f"
   },
   "/docs/硬盘常见故障/固态硬盘开卡维修教程-bf1": {
-    "component": "17896441",
-    "content": "b71f707a"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-硬盘常见故障-固态硬盘开卡维修教程b-71-13c"
   },
   "/docs/硬盘常见故障/硬盘开盘数据恢复-4ce": {
-    "component": "17896441",
-    "content": "36bb675f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-硬盘常见故障-硬盘开盘数据恢复-36-b-9c1"
   },
   "/docs/硬盘常见故障/C盘空间爆满的处理及原因分析-689": {
-    "component": "17896441",
-    "content": "35f430ca"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-硬盘常见故障-c盘空间爆满的处理及原因分析-35-f-1e7"
   },
   "/docs/硬盘常见故障/hdd-26b": {
-    "component": "17896441",
-    "content": "eadac37a"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-硬盘常见故障-hddead-b2c"
   },
   "/docs/硬盘常见故障/SM2258XT 全套工厂固件下载-26f": {
-    "component": "17896441",
-    "content": "4e795a99"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-硬盘常见故障-sm-2258-xt-全套工厂固件下载-4-e-7-4b2"
   },
   "/docs/windows10/联想Y7000安装windows10 过程-6fe": {
-    "component": "17896441",
-    "content": "2607893d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-windows-10-联想-y-7000-安装windows-10-过程-260-a64"
   },
   "/docs/windwos2022-1a4": {
-    "component": "17896441",
-    "content": "ae329a69"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-windwos-2022-ae-3-293"
   },
   "/-deb": {
-    "component": "c4f5d8e4",
-    "config": "5e9f5e1a"
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
   }
 }
