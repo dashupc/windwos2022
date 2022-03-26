@@ -1,0 +1,23 @@
+{
+  "unversionedId": "100好用软件推荐/Adobe_Photoshop",
+  "id": "100好用软件推荐/Adobe_Photoshop",
+  "title": "Adobe_Photoshop",
+  "description": "Photoshop2022中文破解版是一款高效、专业、实用的图像处理软件,可以使工作更加简单,它拥有最强大的图片编辑能力。",
+  "source": "@site/docs\\100好用软件推荐\\Adobe_Photoshop.md",
+  "sourceDirName": "100好用软件推荐",
+  "slug": "/100好用软件推荐/Adobe_Photoshop",
+  "permalink": "/docs/100好用软件推荐/Adobe_Photoshop",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/100好用软件推荐/Adobe_Photoshop.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "联想Y7000安装windows10 过程",
+    "permalink": "/docs/windows10/联想Y7000安装windows10 过程"
+  },
+  "next": {
+    "title": "Everything 硬盘文件查找",
+    "permalink": "/docs/100好用软件推荐/Everything 硬盘文件查找"
+  }
+}

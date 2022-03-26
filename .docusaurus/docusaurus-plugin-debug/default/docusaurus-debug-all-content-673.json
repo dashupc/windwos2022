@@ -37,7 +37,7 @@
                 "permalink": "/docs/1、系统安装/在windows中安装windows7系统"
               },
               "next": {
-                "title": "QQ微信存储文件路径更改",
+                "title": "微信存储文件路径更改",
                 "permalink": "/docs/电脑使用常识/微信存储文件路径更改"
               }
             },
@@ -174,14 +174,37 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Everything （文件搜索工具）",
+                "title": "Everything 硬盘文件查找",
+                "permalink": "/docs/100好用软件推荐/Everything 硬盘文件查找"
+              }
+            },
+            {
+              "unversionedId": "100好用软件推荐/Adobe_Photoshop",
+              "id": "100好用软件推荐/Adobe_Photoshop",
+              "title": "Adobe_Photoshop",
+              "description": "Photoshop2022中文破解版是一款高效、专业、实用的图像处理软件,可以使工作更加简单,它拥有最强大的图片编辑能力。",
+              "source": "@site/docs\\100好用软件推荐\\Adobe_Photoshop.md",
+              "sourceDirName": "100好用软件推荐",
+              "slug": "/100好用软件推荐/Adobe_Photoshop",
+              "permalink": "/docs/100好用软件推荐/Adobe_Photoshop",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/100好用软件推荐/Adobe_Photoshop.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "联想Y7000安装windows10 过程",
+                "permalink": "/docs/windows10/联想Y7000安装windows10 过程"
+              },
+              "next": {
+                "title": "Everything 硬盘文件查找",
                 "permalink": "/docs/100好用软件推荐/Everything 硬盘文件查找"
               }
             },
             {
               "unversionedId": "100好用软件推荐/Everything 硬盘文件查找",
               "id": "100好用软件推荐/Everything 硬盘文件查找",
-              "title": "Everything （文件搜索工具）",
+              "title": "Everything 硬盘文件查找",
               "description": "Everything软件简介",
               "source": "@site/docs\\100好用软件推荐\\Everything 硬盘文件查找.md",
               "sourceDirName": "100好用软件推荐",
@@ -193,8 +216,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "联想Y7000安装windows10 过程",
-                "permalink": "/docs/windows10/联想Y7000安装windows10 过程"
+                "title": "Adobe_Photoshop",
+                "permalink": "/docs/100好用软件推荐/Adobe_Photoshop"
               },
               "next": {
                 "title": "好用截图软件",
@@ -204,7 +227,7 @@
             {
               "unversionedId": "电脑使用常识/微信存储文件路径更改",
               "id": "电脑使用常识/微信存储文件路径更改",
-              "title": "QQ微信存储文件路径更改",
+              "title": "微信存储文件路径更改",
               "description": "C盘空间太满 大多是QQ和微信保存的文件太多，有的有十多G甚至几十G的也有，对于普通用户来说大多都没有什么用，可以删除。",
               "source": "@site/docs\\电脑使用常识\\微信存储文件路径更改.md",
               "sourceDirName": "电脑使用常识",
@@ -265,7 +288,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "QQ微信存储文件路径更改",
+                "title": "微信存储文件路径更改",
                 "permalink": "/docs/电脑使用常识/微信存储文件路径更改"
               },
               "next": {
@@ -413,8 +436,8 @@
                 "permalink": "/docs/硬盘常见故障/硬盘开盘数据恢复"
               },
               "next": {
-                "title": "Everything （文件搜索工具）",
-                "permalink": "/docs/100好用软件推荐/Everything 硬盘文件查找"
+                "title": "Adobe_Photoshop",
+                "permalink": "/docs/100好用软件推荐/Adobe_Photoshop"
               }
             },
             {
@@ -544,6 +567,10 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "100好用软件推荐/Adobe_Photoshop"
+                  },
                   {
                     "type": "doc",
                     "id": "100好用软件推荐/Everything 硬盘文件查找"
@@ -795,8 +822,6 @@
             "postsPerPage": 10,
             "totalPages": 1,
             "totalCount": 4,
-            "previousPage": null,
-            "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           }
@@ -820,8 +845,6 @@
                 "postsPerPage": 10,
                 "totalPages": 1,
                 "totalCount": 1,
-                "previousPage": null,
-                "nextPage": null,
                 "blogDescription": "Blog",
                 "blogTitle": "Blog"
               }
@@ -847,8 +870,6 @@
                 "postsPerPage": 10,
                 "totalPages": 1,
                 "totalCount": 2,
-                "previousPage": null,
-                "nextPage": null,
                 "blogDescription": "Blog",
                 "blogTitle": "Blog"
               }
@@ -878,8 +899,6 @@
                 "postsPerPage": 10,
                 "totalPages": 1,
                 "totalCount": 4,
-                "previousPage": null,
-                "nextPage": null,
                 "blogDescription": "Blog",
                 "blogTitle": "Blog"
               }
@@ -903,8 +922,6 @@
                 "postsPerPage": 10,
                 "totalPages": 1,
                 "totalCount": 1,
-                "previousPage": null,
-                "nextPage": null,
                 "blogDescription": "Blog",
                 "blogTitle": "Blog"
               }
@@ -934,10 +951,6 @@
       }
     ]
   },
-  "docusaurus-plugin-debug": {
-    "default": null
-  },
-  "docusaurus-theme-classic": {
-    "default": null
-  }
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {}
 }

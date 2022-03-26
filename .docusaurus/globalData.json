@@ -46,6 +46,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "100好用软件推荐/Adobe_Photoshop",
+              "path": "/docs/100好用软件推荐/Adobe_Photoshop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "100好用软件推荐/Everything 硬盘文件查找",
               "path": "/docs/100好用软件推荐/Everything 硬盘文件查找",
               "sidebar": "tutorialSidebar"

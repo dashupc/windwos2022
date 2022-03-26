@@ -1,7 +1,7 @@
 {
   "unversionedId": "100好用软件推荐/Everything 硬盘文件查找",
   "id": "100好用软件推荐/Everything 硬盘文件查找",
-  "title": "Everything （文件搜索工具）",
+  "title": "Everything 硬盘文件查找",
   "description": "Everything软件简介",
   "source": "@site/docs\\100好用软件推荐\\Everything 硬盘文件查找.md",
   "sourceDirName": "100好用软件推荐",
@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "联想Y7000安装windows10 过程",
-    "permalink": "/docs/windows10/联想Y7000安装windows10 过程"
+    "title": "Adobe_Photoshop",
+    "permalink": "/docs/100好用软件推荐/Adobe_Photoshop"
   },
   "next": {
     "title": "好用截图软件",
